@@ -12,6 +12,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
+  <img alt="Projeto DevLInks" src="https://github.com/Alexandre-muller/Projeto-Rocketseat/issues/1#issue-2382371450">
+</p>
+
+<p align="center">
   <img alt="Projeto DevLInks" src=".github/Captura de tela 2024-06-30 145045.png">
 </p>
 
