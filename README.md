@@ -17,10 +17,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/Captura de tela 2024-06-30 145045.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
