@@ -188,7 +188,7 @@ footer {
 @media (min-width: 700px) {
   
 
-  ;.light {
+  .light {
     --bg-url: url(./assets/bg-desktop-light.jpg)
   }
 }
