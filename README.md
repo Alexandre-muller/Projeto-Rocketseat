@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center"> NLW #10 Copa </h1>
 =======
 <h1 align="center"> Projeto Rocketseat </h1>
@@ -15,7 +14,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
-<<<<<<< HEAD
 <p align="center">
   <img alt="Projeto DevLInks" src=".github/Captura de tela 2024-06-30 145045.png">
 </p>
@@ -27,7 +25,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 =======
->>>>>>> cdd55b7ed51fa6813b1a8240c881a81ab83f6311
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
