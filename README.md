@@ -1,7 +1,5 @@
-<h1 align="center"> NLW #10 Copa </h1>
-=======
+
 <h1 align="center"> Projeto Rocketseat </h1>
->>>>>>> cdd55b7ed51fa6813b1a8240c881a81ab83f6311
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -20,11 +18,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/Captura de tela 2024-06-30 145045.png" width="100%">
-</p>
-
-=======
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
